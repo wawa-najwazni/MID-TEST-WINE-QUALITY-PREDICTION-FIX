@@ -1,3 +1,5 @@
+Najwa Rahima (4101422137)
+
 # MID-TEST-WINE-QUALITY-PREDICTION-FIX
 
 Accuracy : 60%
